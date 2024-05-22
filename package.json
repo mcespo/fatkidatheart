@@ -1,6 +1,7 @@
 {
   "devDependencies": {
-    "vitepress": "^1.2.2"
+    "vitepress": "^1.2.2",
+    "vue-responsive-image": "^2.0.0"
   },
   "scripts": {
     "docs:dev": "vitepress dev",
