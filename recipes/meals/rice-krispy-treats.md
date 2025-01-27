@@ -4,10 +4,11 @@ layout: doc
 title: "Rice Krispy Treats"
 hero:
   image:
-    src: '/marshmallow.webp'
-    alt: VitePress
+    src: "images/marshmallow.webp"
+    alt: Marshmallows
 ---
-![Marshmallows](/marshmallow.webp)
+
+![Marshmallows](/images/marshmallow.webp)
 
 # Rice Krispy Treats
 
@@ -17,26 +18,25 @@ This is a 70% cereal to mallow ratio. I tend to prefer this type of softness for
 
 If you want to play with ratios (like a 60% cereal to mallow ratio), you just need to do some percentage work: `marshmallows * 0.60 = cereal amount`.
 
-
 ## Ingredients
 
-| Item | Amount |
-| --- | --- |
-| marshmallows | 141g |
-| rice cereal | 99g |
-| butter | 1tbsp |
-| sea salt | pinch |
-| cooking spray |  |
+| Item          | Amount |
+| ------------- | ------ |
+| marshmallows  | 141g   |
+| rice cereal   | 99g    |
+| butter        | 1tbsp  |
+| sea salt      | pinch  |
+| cooking spray |        |
 
 ## Tools
 
-| Items |
-| --- |
-| Pot |
-| Scale |
-| Stove |
-| rubber spatula or device to mix with |
-| Parchment paper |
+| Items                                                       |
+| ----------------------------------------------------------- |
+| Pot                                                         |
+| Scale                                                       |
+| Stove                                                       |
+| rubber spatula or device to mix with                        |
+| Parchment paper                                             |
 | small rimmed baking sheet or other type of rectangular tray |
 
 ## Recipe
@@ -50,4 +50,3 @@ If you want to play with ratios (like a 60% cereal to mallow ratio), you just ne
 7. Transfer the cereal mix into the baking sheet or tray. Press and spread from edge to edge.
 8. Use parchment paper to press down onto the cereal to evenly spread.
 9. Eat.
-
