@@ -14,4 +14,4 @@ hero:
 
 # Treats
 
-- [Rice Krispy Treats](../meals/rice-krispy-treats/)
+- [Rice Krispy Treats](../meals/rice-krispy-treats)
