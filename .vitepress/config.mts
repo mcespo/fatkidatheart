@@ -1,4 +1,4 @@
-import { defineConfig } from 'vitepress'
+import { defineConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -7,14 +7,20 @@ export default defineConfig({
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: 'Home', link: '/' },
-      { text: 'Meals', link: '/recipes/meals' },
-      { text: 'Drinks', link: '/recipes/drinks' }
+      { text: "Home", link: "/" },
+      { text: "Meals", link: "/recipes/meals" },
+      { text: "Drinks", link: "/recipes/drinks" },
+    ],
+
+    sidebar: [
+      {
+        text: "Recipes",
+        items: [{ text: "Meals", link: "/recipes/meals/" }],
+      },
     ],
 
     search: {
-      provider: 'local'
+      provider: "local",
     },
-
-  }
-})
+  },
+});
