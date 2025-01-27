@@ -5,13 +5,13 @@ layout: home
 hero:
   name: "Meals"
   text: "yuuum"
-
-features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elitx
 ---
 
+# Breads and Doughs
+
+- [Pancakes](../meals/pancakes)
+- [Pita](../meals/pita)
+
+# Treats
+
+- [Rice Krispy Treats](../meals/rice-krispy-treats/)
